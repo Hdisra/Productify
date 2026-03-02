@@ -2,7 +2,7 @@
 
 Ecommerce developed with the following technologies:
 
-- Backend: NodeJS, TypeScript
+- Backend: NodeJS, TypeScript, Drizzle ORM
 - Frontend: React, TypeScript, TailwindCSS, daisyUI
 - Database: PostgreSQL and Neon Console
 - With Clerk integration for Login and Signin process
@@ -29,3 +29,9 @@ Ecommerce developed with the following technologies:
 
 - Product page being not logged in:
   ![ProductViewNotLoggedIn](./images/ProductViewNotLoggedIn.png)
+
+- Theme change:
+  ![Themes](./images/Themes.png)
+
+- Clerk integration:
+  ![Clerk](./images/Clerk.png)
